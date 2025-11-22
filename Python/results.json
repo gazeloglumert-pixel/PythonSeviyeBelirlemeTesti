@@ -1,0 +1,736 @@
+{
+  "sadas": [
+    {
+      "datetime": "2025-11-21 16:30:22",
+      "correct": 6,
+      "wrong": 9,
+      "percent": 40.0
+    }
+  ],
+  "mert gazeloğlu": [
+    {
+      "datetime": "2025-11-21 16:30:54",
+      "correct": 0,
+      "wrong": 0,
+      "percent": 0,
+      "answered": 0,
+      "total_questions": 15,
+      "early_terminated": true
+    }
+  ],
+  "Mert Dümbükçüoğlu": [
+    {
+      "datetime": "2025-11-21 16:50:52",
+      "correct": 13,
+      "wrong": 2,
+      "percent": 86.66666666666667,
+      "answered": 15,
+      "total_questions": 15,
+      "early_terminated": false,
+      "points": 26,
+      "max_points": 30,
+      "point_percent": 86.66666666666667,
+      "level_label": null,
+      "level_stats": {
+        "Kolay": {
+          "correct": 4,
+          "wrong": 1
+        },
+        "Orta": {
+          "correct": 5,
+          "wrong": 0
+        },
+        "Zor": {
+          "correct": 4,
+          "wrong": 1
+        }
+      },
+      "study_suggestions": [
+        "Nesne yönelimli programlama: class, __init__, miras (inheritance)",
+        "Generator ve iterator mantığı, yield kullanımı",
+        "Decorators ve ileri fonksiyonel programlama",
+        "Asenkron programlama: async / await",
+        "Sanal ortam (virtualenv) ve paket yönetimi (pip)",
+        "Değişken tanımlama ve isimlendirme kuralları",
+        "Temel aritmetik işlemler ve öncelik kuralları",
+        "Basit döngü örnekleri ile pratik"
+      ]
+    }
+  ],
+  "Mert BIttıkoğly": [
+    {
+      "datetime": "2025-11-21 16:52:15",
+      "correct": 0,
+      "wrong": 0,
+      "percent": 0,
+      "answered": 0,
+      "total_questions": 15,
+      "early_terminated": true,
+      "points": 0,
+      "max_points": 0,
+      "point_percent": 0,
+      "level_label": "Beginner",
+      "level_stats": {
+        "Kolay": {
+          "correct": 0,
+          "wrong": 0
+        },
+        "Orta": {
+          "correct": 0,
+          "wrong": 0
+        },
+        "Zor": {
+          "correct": 0,
+          "wrong": 0
+        }
+      },
+      "study_suggestions": [
+        "Temel veri tipleri: int, float, str, bool",
+        "Karşılaştırma ve mantıksal operatörler",
+        "Koşul ifadeleri: if / elif / else",
+        "Temel döngüler: for ve while",
+        "Liste ve sözlük (list, dict) temelleri"
+      ]
+    }
+  ],
+  "Uzay Güner": [
+    {
+      "datetime": "2025-11-21 17:47:36",
+      "correct": 0,
+      "wrong": 0,
+      "percent": 0,
+      "answered": 0,
+      "total_questions": 15,
+      "early_terminated": true,
+      "points": 0,
+      "max_points": 0,
+      "point_percent": 0,
+      "level_label": "Beginner",
+      "level_stats": {
+        "Kolay": {
+          "correct": 0,
+          "wrong": 0
+        },
+        "Orta": {
+          "correct": 0,
+          "wrong": 0
+        },
+        "Zor": {
+          "correct": 0,
+          "wrong": 0
+        }
+      },
+      "study_suggestions": [
+        "Temel veri tipleri: int, float, str, bool",
+        "Karşılaştırma ve mantıksal operatörler",
+        "Koşul ifadeleri: if / elif / else",
+        "Temel döngüler: for ve while",
+        "Liste ve sözlük (list, dict) temelleri"
+      ]
+    }
+  ],
+  "Uzay Lelouch": [
+    {
+      "datetime": "2025-11-21 19:28:44",
+      "correct": 0,
+      "wrong": 0,
+      "percent": 0,
+      "answered": 0,
+      "total_questions": 15,
+      "early_terminated": true,
+      "points": 0,
+      "max_points": 0,
+      "point_percent": 0,
+      "level_label": "Beginner",
+      "level_stats": {
+        "Kolay": {
+          "correct": 0,
+          "wrong": 0
+        },
+        "Orta": {
+          "correct": 0,
+          "wrong": 0
+        },
+        "Zor": {
+          "correct": 0,
+          "wrong": 0
+        }
+      },
+      "study_suggestions": [
+        "Temel veri tipleri: int, float, str, bool",
+        "Karşılaştırma ve mantıksal operatörler",
+        "Koşul ifadeleri: if / elif / else",
+        "Temel döngüler: for ve while",
+        "Liste ve sözlük (list, dict) temelleri"
+      ]
+    }
+  ],
+  "Mert Bülüğübüyükoğlu": [
+    {
+      "datetime": "2025-11-21 19:30:23",
+      "correct": 0,
+      "wrong": 1,
+      "percent": 0.0,
+      "answered": 1,
+      "total_questions": 15,
+      "early_terminated": true,
+      "points": 0,
+      "max_points": 1,
+      "point_percent": 0.0,
+      "level_label": "Beginner",
+      "level_stats": {
+        "Kolay": {
+          "correct": 0,
+          "wrong": 1
+        },
+        "Orta": {
+          "correct": 0,
+          "wrong": 0
+        },
+        "Zor": {
+          "correct": 0,
+          "wrong": 0
+        }
+      },
+      "study_suggestions": [
+        "Temel veri tipleri: int, float, str, bool",
+        "Karşılaştırma ve mantıksal operatörler",
+        "Koşul ifadeleri: if / elif / else",
+        "Temel döngüler: for ve while",
+        "Liste ve sözlük (list, dict) temelleri",
+        "Değişken tanımlama ve isimlendirme kuralları",
+        "Temel aritmetik işlemler ve öncelik kuralları",
+        "Basit döngü örnekleri ile pratik"
+      ]
+    }
+  ],
+  "Mert": [
+    {
+      "datetime": "2025-11-21 19:30:47",
+      "correct": 0,
+      "wrong": 1,
+      "percent": 0.0,
+      "answered": 1,
+      "total_questions": 15,
+      "early_terminated": true,
+      "points": 0,
+      "max_points": 1,
+      "point_percent": 0.0,
+      "level_label": "Beginner",
+      "level_stats": {
+        "Kolay": {
+          "correct": 0,
+          "wrong": 1
+        },
+        "Orta": {
+          "correct": 0,
+          "wrong": 0
+        },
+        "Zor": {
+          "correct": 0,
+          "wrong": 0
+        }
+      },
+      "study_suggestions": [
+        "Temel veri tipleri: int, float, str, bool",
+        "Karşılaştırma ve mantıksal operatörler",
+        "Koşul ifadeleri: if / elif / else",
+        "Temel döngüler: for ve while",
+        "Liste ve sözlük (list, dict) temelleri",
+        "Değişken tanımlama ve isimlendirme kuralları",
+        "Temel aritmetik işlemler ve öncelik kuralları",
+        "Basit döngü örnekleri ile pratik"
+      ]
+    }
+  ],
+  "sad": [
+    {
+      "datetime": "2025-11-21 19:34:29",
+      "correct": 11,
+      "wrong": 4,
+      "percent": 73.33333333333333,
+      "answered": 15,
+      "total_questions": 15,
+      "early_terminated": false,
+      "points": 21,
+      "max_points": 30,
+      "point_percent": 70.0,
+      "level_label": "Advanced",
+      "level_stats": {
+        "Kolay": {
+          "correct": 4,
+          "wrong": 1
+        },
+        "Orta": {
+          "correct": 4,
+          "wrong": 1
+        },
+        "Zor": {
+          "correct": 3,
+          "wrong": 2
+        }
+      },
+      "study_suggestions": [
+        "Nesne yönelimli programlama: class, __init__, miras (inheritance)",
+        "Generator ve iterator mantığı, yield kullanımı",
+        "Decorators ve ileri fonksiyonel programlama",
+        "Asenkron programlama: async / await",
+        "Sanal ortam (virtualenv) ve paket yönetimi (pip)",
+        "Decorator ve context manager örnekleri incele",
+        "PEP 8 stil rehberini gözden geçir",
+        "Gerçek projelerde OOP tasarım örneklerine bak"
+      ]
+    }
+  ],
+  "Yaman Koper": [
+    {
+      "datetime": "2025-11-21 20:35:08",
+      "correct": 0,
+      "wrong": 1,
+      "percent": 0.0,
+      "answered": 1,
+      "total_questions": 15,
+      "early_terminated": true,
+      "points": 0,
+      "max_points": 1,
+      "point_percent": 0.0,
+      "level_label": "Beginner",
+      "level_stats": {
+        "Kolay": {
+          "correct": 0,
+          "wrong": 1
+        },
+        "Orta": {
+          "correct": 0,
+          "wrong": 0
+        },
+        "Zor": {
+          "correct": 0,
+          "wrong": 0
+        }
+      },
+      "study_suggestions": [
+        "Temel veri tipleri: int, float, str, bool",
+        "Karşılaştırma ve mantıksal operatörler",
+        "Koşul ifadeleri: if / elif / else",
+        "Temel döngüler: for ve while",
+        "Liste ve sözlük (list, dict) temelleri",
+        "Değişken tanımlama ve isimlendirme kuralları",
+        "Temel aritmetik işlemler ve öncelik kuralları",
+        "Basit döngü örnekleri ile pratik"
+      ]
+    }
+  ],
+  "Mert Gazeloğlu": [
+    {
+      "datetime": "2025-11-22 19:05:39",
+      "correct": 4,
+      "wrong": 1,
+      "percent": 80.0,
+      "answered": 5,
+      "total_questions": 15,
+      "early_terminated": true,
+      "points": 4,
+      "max_points": 5,
+      "point_percent": 80.0,
+      "level_label": "Advanced",
+      "level_stats": {
+        "Kolay": {
+          "correct": 4,
+          "wrong": 1
+        },
+        "Orta": {
+          "correct": 0,
+          "wrong": 0
+        },
+        "Zor": {
+          "correct": 0,
+          "wrong": 0
+        }
+      },
+      "study_suggestions": [
+        "Nesne yönelimli programlama: class, __init__, miras (inheritance)",
+        "Generator ve iterator mantığı, yield kullanımı",
+        "Decorators ve ileri fonksiyonel programlama",
+        "Asenkron programlama: async / await",
+        "Sanal ortam (virtualenv) ve paket yönetimi (pip)",
+        "Değişken tanımlama ve isimlendirme kuralları",
+        "Temel aritmetik işlemler ve öncelik kuralları",
+        "Basit döngü örnekleri ile pratik"
+      ]
+    },
+    {
+      "datetime": "2025-11-22 19:05:44",
+      "correct": 4,
+      "wrong": 1,
+      "percent": 80.0,
+      "answered": 5,
+      "total_questions": 15,
+      "early_terminated": true,
+      "points": 4,
+      "max_points": 5,
+      "point_percent": 80.0,
+      "level_label": "Advanced",
+      "level_stats": {
+        "Kolay": {
+          "correct": 4,
+          "wrong": 1
+        },
+        "Orta": {
+          "correct": 0,
+          "wrong": 0
+        },
+        "Zor": {
+          "correct": 0,
+          "wrong": 0
+        }
+      },
+      "study_suggestions": [
+        "Nesne yönelimli programlama: class, __init__, miras (inheritance)",
+        "Generator ve iterator mantığı, yield kullanımı",
+        "Decorators ve ileri fonksiyonel programlama",
+        "Asenkron programlama: async / await",
+        "Sanal ortam (virtualenv) ve paket yönetimi (pip)",
+        "Değişken tanımlama ve isimlendirme kuralları",
+        "Temel aritmetik işlemler ve öncelik kuralları",
+        "Basit döngü örnekleri ile pratik"
+      ]
+    },
+    {
+      "datetime": "2025-11-22 19:05:45",
+      "correct": 4,
+      "wrong": 1,
+      "percent": 80.0,
+      "answered": 5,
+      "total_questions": 15,
+      "early_terminated": true,
+      "points": 4,
+      "max_points": 5,
+      "point_percent": 80.0,
+      "level_label": "Advanced",
+      "level_stats": {
+        "Kolay": {
+          "correct": 4,
+          "wrong": 1
+        },
+        "Orta": {
+          "correct": 0,
+          "wrong": 0
+        },
+        "Zor": {
+          "correct": 0,
+          "wrong": 0
+        }
+      },
+      "study_suggestions": [
+        "Nesne yönelimli programlama: class, __init__, miras (inheritance)",
+        "Generator ve iterator mantığı, yield kullanımı",
+        "Decorators ve ileri fonksiyonel programlama",
+        "Asenkron programlama: async / await",
+        "Sanal ortam (virtualenv) ve paket yönetimi (pip)",
+        "Değişken tanımlama ve isimlendirme kuralları",
+        "Temel aritmetik işlemler ve öncelik kuralları",
+        "Basit döngü örnekleri ile pratik"
+      ]
+    },
+    {
+      "datetime": "2025-11-22 19:05:45",
+      "correct": 4,
+      "wrong": 1,
+      "percent": 80.0,
+      "answered": 5,
+      "total_questions": 15,
+      "early_terminated": true,
+      "points": 4,
+      "max_points": 5,
+      "point_percent": 80.0,
+      "level_label": "Advanced",
+      "level_stats": {
+        "Kolay": {
+          "correct": 4,
+          "wrong": 1
+        },
+        "Orta": {
+          "correct": 0,
+          "wrong": 0
+        },
+        "Zor": {
+          "correct": 0,
+          "wrong": 0
+        }
+      },
+      "study_suggestions": [
+        "Nesne yönelimli programlama: class, __init__, miras (inheritance)",
+        "Generator ve iterator mantığı, yield kullanımı",
+        "Decorators ve ileri fonksiyonel programlama",
+        "Asenkron programlama: async / await",
+        "Sanal ortam (virtualenv) ve paket yönetimi (pip)",
+        "Değişken tanımlama ve isimlendirme kuralları",
+        "Temel aritmetik işlemler ve öncelik kuralları",
+        "Basit döngü örnekleri ile pratik"
+      ]
+    },
+    {
+      "datetime": "2025-11-22 19:05:46",
+      "correct": 4,
+      "wrong": 1,
+      "percent": 80.0,
+      "answered": 5,
+      "total_questions": 15,
+      "early_terminated": true,
+      "points": 4,
+      "max_points": 5,
+      "point_percent": 80.0,
+      "level_label": "Advanced",
+      "level_stats": {
+        "Kolay": {
+          "correct": 4,
+          "wrong": 1
+        },
+        "Orta": {
+          "correct": 0,
+          "wrong": 0
+        },
+        "Zor": {
+          "correct": 0,
+          "wrong": 0
+        }
+      },
+      "study_suggestions": [
+        "Nesne yönelimli programlama: class, __init__, miras (inheritance)",
+        "Generator ve iterator mantığı, yield kullanımı",
+        "Decorators ve ileri fonksiyonel programlama",
+        "Asenkron programlama: async / await",
+        "Sanal ortam (virtualenv) ve paket yönetimi (pip)",
+        "Değişken tanımlama ve isimlendirme kuralları",
+        "Temel aritmetik işlemler ve öncelik kuralları",
+        "Basit döngü örnekleri ile pratik"
+      ]
+    },
+    {
+      "datetime": "2025-11-22 19:05:46",
+      "correct": 4,
+      "wrong": 1,
+      "percent": 80.0,
+      "answered": 5,
+      "total_questions": 15,
+      "early_terminated": true,
+      "points": 4,
+      "max_points": 5,
+      "point_percent": 80.0,
+      "level_label": "Advanced",
+      "level_stats": {
+        "Kolay": {
+          "correct": 4,
+          "wrong": 1
+        },
+        "Orta": {
+          "correct": 0,
+          "wrong": 0
+        },
+        "Zor": {
+          "correct": 0,
+          "wrong": 0
+        }
+      },
+      "study_suggestions": [
+        "Nesne yönelimli programlama: class, __init__, miras (inheritance)",
+        "Generator ve iterator mantığı, yield kullanımı",
+        "Decorators ve ileri fonksiyonel programlama",
+        "Asenkron programlama: async / await",
+        "Sanal ortam (virtualenv) ve paket yönetimi (pip)",
+        "Değişken tanımlama ve isimlendirme kuralları",
+        "Temel aritmetik işlemler ve öncelik kuralları",
+        "Basit döngü örnekleri ile pratik"
+      ]
+    },
+    {
+      "datetime": "2025-11-22 19:47:46",
+      "correct": 1,
+      "wrong": 2,
+      "percent": 33.33333333333333,
+      "answered": 3,
+      "total_questions": 15,
+      "early_terminated": true,
+      "points": 1,
+      "max_points": 6,
+      "point_percent": 16.666666666666664,
+      "level_label": "Beginner",
+      "level_stats": {
+        "Kolay": {
+          "correct": 1,
+          "wrong": 0
+        },
+        "Orta": {
+          "correct": 0,
+          "wrong": 1
+        },
+        "Zor": {
+          "correct": 0,
+          "wrong": 1
+        }
+      },
+      "study_suggestions": [
+        "Temel veri tipleri: int, float, str, bool",
+        "Karşılaştırma ve mantıksal operatörler",
+        "Koşul ifadeleri: if / elif / else",
+        "Temel döngüler: for ve while",
+        "Liste ve sözlük (list, dict) temelleri",
+        "List/dict işlemleri (append, pop, insert, keys vs.)",
+        "range, enumerate, map, filter gibi fonksiyonları tekrar et",
+        "String dilimleme ve formatlama (format, f-string)"
+      ]
+    }
+  ],
+  "Mert Büllük": [
+    {
+      "datetime": "2025-11-22 19:21:36",
+      "correct": 7,
+      "wrong": 8,
+      "percent": 46.666666666666664,
+      "answered": 15,
+      "total_questions": 15,
+      "early_terminated": false,
+      "points": 14,
+      "max_points": 30,
+      "point_percent": 46.666666666666664,
+      "level_label": "Intermediate",
+      "level_stats": {
+        "Kolay": {
+          "correct": 2,
+          "wrong": 3
+        },
+        "Orta": {
+          "correct": 3,
+          "wrong": 2
+        },
+        "Zor": {
+          "correct": 2,
+          "wrong": 3
+        }
+      },
+      "study_suggestions": [
+        "Fonksiyon yazma ve parametreler (varsayılan parametreler dahil)",
+        "List, dict, set ve tuple ile pratik",
+        "List comprehension ve temel lambda kullanımı",
+        "try / except ile hata yönetimi",
+        "Dosya okuma/yazma (file I/O) ve with kullanımı",
+        "Değişken tanımlama ve isimlendirme kuralları",
+        "Temel aritmetik işlemler ve öncelik kuralları",
+        "Basit döngü örnekleri ile pratik"
+      ]
+    }
+  ],
+  "Mert ASDA": [
+    {
+      "datetime": "2025-11-22 19:52:18",
+      "correct": 4,
+      "wrong": 11,
+      "percent": 26.666666666666668,
+      "answered": 15,
+      "total_questions": 15,
+      "early_terminated": false,
+      "points": 6,
+      "max_points": 30,
+      "point_percent": 20.0,
+      "level_label": "Beginner",
+      "level_stats": {
+        "Kolay": {
+          "correct": 2,
+          "wrong": 3
+        },
+        "Orta": {
+          "correct": 2,
+          "wrong": 3
+        },
+        "Zor": {
+          "correct": 0,
+          "wrong": 5
+        }
+      },
+      "study_suggestions": [
+        "Temel veri tipleri: int, float, str, bool",
+        "Karşılaştırma ve mantıksal operatörler",
+        "Koşul ifadeleri: if / elif / else",
+        "Temel döngüler: for ve while",
+        "Liste ve sözlük (list, dict) temelleri",
+        "Decorator ve context manager örnekleri incele",
+        "PEP 8 stil rehberini gözden geçir",
+        "Gerçek projelerde OOP tasarım örneklerine bak"
+      ]
+    }
+  ],
+  "dasdasd": [
+    {
+      "datetime": "2025-11-22 20:41:13",
+      "correct": 0,
+      "wrong": 0,
+      "percent": 0,
+      "answered": 0,
+      "total_questions": 15,
+      "early_terminated": true,
+      "points": 0,
+      "max_points": 0,
+      "point_percent": 0,
+      "level_label": "Beginner",
+      "level_stats": {
+        "Kolay": {
+          "correct": 0,
+          "wrong": 0
+        },
+        "Orta": {
+          "correct": 0,
+          "wrong": 0
+        },
+        "Zor": {
+          "correct": 0,
+          "wrong": 0
+        }
+      },
+      "study_suggestions": [
+        "Temel veri tipleri: int, float, str, bool",
+        "Karşılaştırma ve mantıksal operatörler",
+        "Koşul ifadeleri: if / elif / else",
+        "Temel döngüler: for ve while",
+        "Liste ve sözlük (list, dict) temelleri"
+      ]
+    }
+  ],
+  "Mert Gazel": [
+    {
+      "datetime": "2025-11-22 21:24:36",
+      "correct": 0,
+      "wrong": 0,
+      "percent": 0,
+      "answered": 0,
+      "total_questions": 15,
+      "early_terminated": true,
+      "points": 0,
+      "max_points": 0,
+      "point_percent": 0,
+      "level_label": "Beginner",
+      "level_stats": {
+        "Kolay": {
+          "correct": 0,
+          "wrong": 0
+        },
+        "Orta": {
+          "correct": 0,
+          "wrong": 0
+        },
+        "Zor": {
+          "correct": 0,
+          "wrong": 0
+        }
+      },
+      "study_suggestions": [
+        "Temel veri tipleri: int, float, str, bool",
+        "Karşılaştırma ve mantıksal operatörler",
+        "Koşul ifadeleri: if / elif / else",
+        "Temel döngüler: for ve while",
+        "Liste ve sözlük (list, dict) temelleri"
+      ],
+      "teacher": "Mert Gazeloğlu"
+    }
+  ]
+}
